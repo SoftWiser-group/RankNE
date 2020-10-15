@@ -6,7 +6,7 @@ implementation of paper **Bringing Order to Network Embedding: A Relative Rankin
 	pytorch >= 1.4
 	
 ## Quick Start
-We give a basic setup to use the LiWine by run
+We give a basic setup to use LiWine by running
  
 	# python LiWine/train.py
 	...
