@@ -1,0 +1,1 @@
+g++ -lm -pthread -Ofast -march=native -Wall -funroll-loops -ffast-math -Wno-unused-result pawine.cpp -o pawine -lgsl -lm -lgslcblas
